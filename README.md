@@ -22,7 +22,8 @@ python3 app.py
 ```
 
 # APIs available
-Please see the doc for the available endpoints.
+Please see the doc for all the available endpoints and detais.
+https://docs.google.com/document/d/1gndMzXnk6Vuskm9ri_9tyqbxbcvjfPythRiW0uRZ9NE/edit#
 
 Python example:
 ```
